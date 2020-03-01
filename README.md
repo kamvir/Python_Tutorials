@@ -9,12 +9,6 @@ Do refer code for better understanding.
 Reference video link::
 https://www.youtube.com/watch?v=_uQrJ0TkZlc
 
-# Steps :
-
-1. Creat a new python project.
-
-2. Name it 'Python Tutorials'
-
-3. Clone it in your newly created Python Project
+Clone it and open it in PyCharm (<a href="https://www.jetbrains.com/pycharm/download/" target="_blank" >Download here</a>)
 
 Happy Coding.... :)
