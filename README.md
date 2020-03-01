@@ -9,10 +9,12 @@ Do refer code for better understanding.
 Reference video link::
 https://www.youtube.com/watch?v=_uQrJ0TkZlc
 
-Creat a new python project.
+#Steps :
 
-Name it 'Python Tutorials'
+1. Creat a new python project.
 
-Clone it in your newly created Python Project
+2. Name it 'Python Tutorials'
+
+3. Clone it in your newly created Python Project
 
 Happy Coding.... :)
