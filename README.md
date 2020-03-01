@@ -9,7 +9,7 @@ Do refer code for better understanding.
 Reference video link::
 https://www.youtube.com/watch?v=_uQrJ0TkZlc
 
-#Steps :
+# Steps :
 
 1. Creat a new python project.
 
